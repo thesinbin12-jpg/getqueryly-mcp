@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.thesinbin12-jpg/getqueryly",
-  "description": "Upload spreadsheets (CSV, Excel, JSON, PDF, SPSS, images) and get plain-English data analysis with real computed numbers, quality scores, insights and charts. Hosted remote MCP server; works with Claude Desktop, Cursor and any MCP client.",
-  "title": "GetQueryly — AI Data Analyst",
+  "description": "Upload spreadsheets, get plain-English analysis with real computed charts and quality scores.",
+  "title": "GetQueryly \u2014 AI Data Analyst",
   "websiteUrl": "https://getqueryly.com",
   "repository": {
     "url": "https://github.com/thesinbin12-jpg/getqueryly-mcp",

@@ -58,3 +58,7 @@ Free: **10 Makes/day** with an API key (no card). Paid packs (GHS): Starter 50 /
 - Every analysis is metered in "Makes" so costs are predictable
 
 MIT licensed. Built by [GetQueryly](https://getqueryly.com).
+
+## Official MCP Registry
+
+Listed in the official registry: [`io.github.thesinbin12-jpg/getqueryly`](https://registry.modelcontextprotocol.io/v0/servers/io.github.thesinbin12-jpg%2Fgetqueryly/versions/latest)
