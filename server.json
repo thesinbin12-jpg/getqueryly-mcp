@@ -1,0 +1,26 @@
+{
+  "name": "getqueryly",
+  "display_name": "GetQueryly — AI Data Analyst",
+  "description": "Upload spreadsheets (CSV, Excel, JSON, PDF, SPSS, images) and get plain-English analysis with real computed numbers, quality scores, insights and charts. Hosted MCP server; works with Claude Desktop, Cursor and any MCP client.",
+  "url": "https://getqueryly.com/mcp/mcp",
+  "transport": "streamable-http",
+  "icon": "https://getqueryly.com/static/logo.png",
+  "auth": {
+    "type": "api_key",
+    "header": "X-API-Key",
+    "instructions": "Get a free key at https://getqueryly.com/keys (10 free Makes/day)"
+  },
+  "tools": [
+    "analyze_file", "ds_upload", "ds_query", "ds_health_check", "ds_insights",
+    "ds_swarm", "chart", "smart_test", "ds_report", "ds_dashboard", "ds_graph",
+    "kaggle_search", "kaggle_load", "kaggle_analyze",
+    "generate_diagram", "create_infographic", "create_comparison",
+    "ai_chat", "get_usage", "get_costs"
+  ],
+  "pricing": { "free_tier": "10 Makes/day", "model": "per-analysis credits" },
+  "links": {
+    "website": "https://getqueryly.com",
+    "docs": "https://getqueryly.com/api-docs",
+    "pricing": "https://getqueryly.com/pricing"
+  }
+}
